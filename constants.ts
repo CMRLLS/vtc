@@ -16,7 +16,7 @@ export const TRANSLATIONS: Record<Language, Content> = {
       fleet: "Flotte",
       values: "Valeurs",
       contact: "Contact",
-      book: "Réserver",
+      book: "Réserver un trajet",
     },
     hero: {
       subtitle: "L'ART DU TRANSPORT PRIVÉ",
