@@ -1,0 +1,11 @@
+/* Base stylesheet to satisfy Vite build asset reference.
+   Tailwind CDN in index.html provides utility classes; add any custom overrides here. */
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', system-ui, -apple-system, sans-serif;
+}
